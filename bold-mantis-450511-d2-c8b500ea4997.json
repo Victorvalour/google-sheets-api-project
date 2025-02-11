@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bold-mantis-450511-d2",
+  "private_key_id": "c8b500ea49974bf102248ee4ebfb05bde9092bde",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3+hc6QttR6bbt\ntG88cuNlzWEXwYIZNTPlQIwCbFdgsp7+l081j1coCq5TyPsr7gM1QPCa2bk2MFvM\nf2V4CVP9hlpRRdO29HWs23UI5lIAgdMkqi+9SYWjmEgnAv6GpmdFjf962td0qYLK\niC+OjPr7QRloA0Pk5CAj7F1FoHGM1NTngOCECpC0MAAITToBX2Kd0oJm6hvxgOGC\nRYqwYKJ8aBgwyDMbfxGoerWBwds0Af2eGR5BELbWH2ETa3VxDfEL+FAynk0ew4WM\nmIeT84kx+MC/QlolWB7Cb1WHkUr0dvHs2QL9h8hDlmUx54ka0RZZNWGqO7sbS7yZ\n2PPGrX8FAgMBAAECggEACk05ylYR1tSp6ayHtmnoFS+HYMYOnvlTxkhmrpoN2Hwx\nmyeybgxwZzpJFNr1QyDCoDnaXylfp0rU6q7PHTlHsTOgag2cmcS3GogQiRnwfIou\n3jSc+lHo5qyxWZhGBuWMqDnklNoDl347myCkdqx3pbFslt6CVjyp46kQEStQ2f+J\ns1Ck5TMv2DFcD6G/PMQqi7kgqDOQkHEAnwLFM7EoaMyy9QsRaQNhFvj9yHJSeeJt\n3PtYPJ+BCXV6ePRk2ENYB27Um+xQ1g6Of8Y1vnoTvVzwzUxsniqINmK8IzHmRiTT\nCgLMei7uY7U4dBAODwjXGahg+IwscuOZKz9PI116LwKBgQDsaJhexDULLUNoQMBj\nfOYlgb/Id5A13RcazZUUZhQhR6SCTSftKie3ccDN0nSQIx61sF0R4BQofLk7Njeq\nreKJMmN/KcYcZu6Acz2PHJSAWG4JDyz/m0a8WFsDRIFrnWkpl2XJcXwjydCIRTCB\n+vzzWtSxQPLpyReddc+7jm5HgwKBgQDHOSiaHt64Swxp8ozIx9ypFe3aMK/zYCsc\n6/76AfIzHoRNQ/wEuZirPnFpvJAi2T1RRpoUp5orLikQPjTjJ1UaH9qWiWImxaxP\njyjDPzg0aZIZwucoOo70a/sEgT5wkHsT1UUCYbihIaTQLHKSBKZpyzBdMTGku5n1\n/ivrYyfQ1wKBgBbGtPdcW+fpwnbG1kI/hETUzU9ZBZHK7TDt4ZEHjKTwLA9Js7EL\nwKvRz8uEnSpN1+WVSkIwnoCQE6B6xr4w5oRlUGSt96JA4HWLpMCm9j+vRVqmFaXC\npfv7XzlfXkCp97nEFlBkGJuyE98tG1FKhxhDBf7VzRFtCFNpSEw/mqxVAoGAQrQh\noxDI8521J1gdyTAZ8scz30VD9FHzvXhK4/x40qLaG2Cy5gYaVuPOZ1/KRtDD1g20\nk0vWs7R97UFWxeOqe9fEgXi4U1EGM5E0TcNCF1Jtp5B5gx+wM6hf4I9Bj8DgZLCY\nrYZ4ogK4wzbOmZNTAMMWi21oOMbTcujKXcLSVvsCgYEAizFzN/CQQR0Zw6vSbP3o\nirHt6bW/W4qKasP50tZF6Z8LCgYin3vuoHyzUUZFI1xSziuySDayEHGRYFHonF/5\np7xHpccB1WJioP7d/Ya9bM6mWNZ/N1bqe0m7uKo+4vfnn+Acp1Tcq7fE51mgSOGp\nlmrsCIrZykHaSow33absKoY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-api-service-account@bold-mantis-450511-d2.iam.gserviceaccount.com",
+  "client_id": "109402101739936326486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-api-service-account%40bold-mantis-450511-d2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
